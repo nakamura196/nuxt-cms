@@ -83,6 +83,7 @@
 <script>
 export default {
   name: 'IndexPage',
+  /*
   head() {
     return {
       script: [
@@ -90,5 +91,6 @@ export default {
       ]
     }
   }
+  */
 }
 </script>
